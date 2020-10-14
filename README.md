@@ -13,7 +13,7 @@ This plot shows the total number of runtime per season of the famous Netflix sho
 
 **Plot 2: Total vs Women Population Growth in Afghanistan (1950-1960)
 
-<img scr=popgrowth.png>
+<img src=popgrowth.png>
 
 This plot shows the total population of people in Afghanistan between 1950 and 1960. This data is shown in blue. The second line (the orange line) shows the total population of women in Afghanistan between 1950 and 1960. The data for this plot was found here: [United Nations](https://population.un.org/wpp/Download/Standard/CSV/).  
 
